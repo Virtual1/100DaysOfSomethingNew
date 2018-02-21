@@ -1,0 +1,30 @@
+Notes on stuff to setup for dad:
+1. Stock sheet - to input stock items, pricing, etc. I made a basic Google sheet, he hasn't used it yet. Need to find out why.
+2. KISS - find out how he is use to working, make new system similar. Better support panel, he mustn't be afraid to ask for help or be scared by the tech stuff.
+
+To make:
+
+Stock
+Simple stock card system, basic input screens feeding into MySQL DB 
+Inputs - item code, descr, qty, price
+Lookup/Display - like old manual stock card system - 2 sides - stock in, stock out, recon qty on hand
+
+Customers 
+Basic invoice screen, pulling data from main DB
+Basic input for customer info
+Pull customer statement,
+enter payments received
+
+Suppliers
+Basic PO / GRV/invoice screen, pulling data from main DB
+Basic input for supplier info
+Pull supplier statement,
+enter payments made, discount received
+
+Basic Cashbook screen
+
+All based on manual layouts - nothing too fancy
+
+Nice to do:
+Build a helpbot
+
